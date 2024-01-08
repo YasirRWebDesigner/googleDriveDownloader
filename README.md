@@ -2,7 +2,7 @@ You can download any file from Google Drive in 3 simple steps, I created this ba
 # Step 1 
 Clone the repo `git clone https://github.com/YasirRWebDesigner/googleDriveDownloader`
 # Step 2
-Run the script `./transfer.sh`
+Goto the googleDriveDownloader dir and run the script `sh ./transfer.sh`
 # Step 3
 Write the file name i.e `backup.zip`
 # Step 4
