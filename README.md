@@ -1,4 +1,5 @@
-You can download any file from Google Drive in 3 simple steps, I created this bash script because sometimes I needed to download WordPress backups from Google Drive on a server.
+Quickly and easily download any file from Google Drive with this Bash script. Originally created for downloading WordPress backups from Google Drive on servers, this tool simplifies the process into just three steps.
+
 # Step 1 
 Clone the repo `git clone https://github.com/YasirRWebDesigner/googleDriveDownloader`
 # Step 2
