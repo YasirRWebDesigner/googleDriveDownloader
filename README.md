@@ -9,7 +9,7 @@ Write the file name i.e `backup.zip`
 # Step 4
 Write the file ID from Google Drive, and make sure the file is set to public.
 
-![image](https://github.com/YasirRWebDesigner/gd-downloader/assets/32537564/0354eac5-46bf-426d-a373-f6c0de56eb88)
+![image](https://github.com/YasirRWebDesigner/googleDriveDownloader/assets/32537564/0354eac5-46bf-426d-a373-f6c0de56eb88)
 
 
 # DONE
